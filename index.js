@@ -227,7 +227,7 @@ inquirer.prompt([
             break;
         case 'UPDATE':
             //prompt that updates employee
-            updatedRoles()
+            updateRoles();
             break;
     }
 })

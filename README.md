@@ -1,1 +1,2 @@
 # EmployeeTracker
+npm start
